@@ -12,5 +12,7 @@ ramka
 }
 button
 {
-  
+  background-color: dodgerblue;
+  border-color: dimgrey;
+  border-width: 10px;
 }
